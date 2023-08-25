@@ -12,8 +12,8 @@ using StoreDataAccess.Data;
 namespace StoreDataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230825101618_Ordertodb")]
-    partial class Ordertodb
+    [Migration("20230825222343_son")]
+    partial class son
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

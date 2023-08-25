@@ -5,7 +5,7 @@
 namespace StoreDataAccess.Migrations
 {
     /// <inheritdoc />
-    public partial class Ordertodb : Migration
+    public partial class yenimi : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

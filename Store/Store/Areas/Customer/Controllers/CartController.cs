@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using StoreUtility;
 using StoreDataAccess.Repositories;
-using StoreDataAccess.ViewModels;
+using StoreModels.VModels;
 using Stripe.Checkout;
 using System.Security.Claims;
 using StoreModels;

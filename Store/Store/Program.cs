@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using StoreDataAccess.Data;
 using StoreDataAccess.Repositories;
 using Microsoft.AspNetCore.Identity;
-using StoreUtility.DbInitalizer;
+using StoreDataAccess.DbInitilazer;
 using Microsoft.Build.Framework;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using StoreUtility;

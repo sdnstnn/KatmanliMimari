@@ -15,3 +15,5 @@ C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\refin
 C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.pdb
 C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.genruntimeconfig.cache
 C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\ref\StoreDataAccess.dll
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\bin\Debug\net6.0\StoreUtility.dll
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\bin\Debug\net6.0\StoreUtility.pdb

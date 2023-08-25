@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using StoreDataAccess.Repositories;
-using StoreDataAccess.ViewModels;
-using StoreModels;
+using StoreModels.VModels;
 using StoreUtility;
 using Stripe;
 using Stripe.Checkout;
 using System.Security.Claims;
+using StoreModels;
 
 namespace Store.Areas.Admin.Controllers
 {

@@ -19,9 +19,8 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 using StoreUtility;
-using StoreModels;
 using StoreDataAccess.Repositories;
-
+using StoreModels;
 
 namespace Store.Areas.Identity.Pages.Account
 {

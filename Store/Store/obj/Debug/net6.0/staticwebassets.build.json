@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U6jmV1KpjhQu8F7KXNf0H0nQpgRWFa3lq3nkCZyi12U=",
+  "Hash": "ahlRc7U35kdKjFzqSxAxKQPRqyhrV0wWCKb+S1KWiic=",
   "Source": "Store",
   "BasePath": "_content/Store",
   "Mode": "Default",
@@ -2157,6 +2157,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProductImage\\b008f508-c188-427a-b4af-88e3b349fd5a-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\TURAN IŞITAN\\source\\repos\\Store\\Store\\wwwroot\\ProductImage\\b45bfed6-bfca-453b-b568-ba977f9a6dc1-wega-polaris-evd3-otomatik-espresso-kahve-makinesi-3-gr-2135-1.webp",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TURAN IŞITAN\\source\\repos\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "ProductImage/b45bfed6-bfca-453b-b568-ba977f9a6dc1-wega-polaris-evd3-otomatik-espresso-kahve-makinesi-3-gr-2135-1.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImage\\b45bfed6-bfca-453b-b568-ba977f9a6dc1-wega-polaris-evd3-otomatik-espresso-kahve-makinesi-3-gr-2135-1.webp"
     }
   ]
 }

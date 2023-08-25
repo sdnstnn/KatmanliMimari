@@ -3163,9 +3163,11 @@
       "StoreDataAccess/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.21",
+          "Microsoft.AspNetCore.Identity.UI": "6.0.21",
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
-          "StoreModels": "1.0.0"
+          "StoreModels": "1.0.0",
+          "StoreUtility": "1.0.0"
         },
         "runtime": {
           "StoreDataAccess.dll": {}
@@ -3174,7 +3176,8 @@
       "StoreModels/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.21",
-          "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
         },
         "runtime": {
           "StoreModels.dll": {}
@@ -3183,8 +3186,7 @@
       "StoreUtility/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.21",
-          "Microsoft.AspNetCore.Identity.UI": "6.0.21",
-          "StoreDataAccess": "1.0.0"
+          "Microsoft.AspNetCore.Identity.UI": "6.0.21"
         },
         "runtime": {
           "StoreUtility.dll": {}

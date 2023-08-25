@@ -9,9 +9,4 @@ C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\obj\Debug\net6.0\StoreUti
 C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\obj\Debug\net6.0\refint\StoreUtility.dll
 C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\obj\Debug\net6.0\StoreUtility.pdb
 C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\obj\Debug\net6.0\ref\StoreUtility.dll
-C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\bin\Debug\net6.0\StoreDataAccess.dll
-C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\bin\Debug\net6.0\StoreModels.dll
-C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\bin\Debug\net6.0\StoreDataAccess.pdb
-C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\bin\Debug\net6.0\StoreModels.pdb
 C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\obj\Debug\net6.0\StoreUtility.csproj.AssemblyReference.cache
-C:\Users\TURAN IŞITAN\source\repos\Store\StoreUtility\obj\Debug\net6.0\StoreUtility.csproj.CopyComplete

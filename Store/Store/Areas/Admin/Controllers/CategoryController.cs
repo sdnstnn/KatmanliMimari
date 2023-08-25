@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using StoreDataAccess.Repositories;
-using StoreDataAccess.ViewModels;
-using StoreModels;
+using StoreModels.VModels;
 using StoreUtility;
 
 namespace Store.Areas.Admin.Controllers

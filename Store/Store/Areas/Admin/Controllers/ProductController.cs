@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Hosting.Internal;
 using Microsoft.Identity.Client;
 using StoreDataAccess.Repositories;
-using StoreDataAccess.ViewModels;
+using StoreModels.VModels;
 using StoreModels;
 using StoreUtility;
 

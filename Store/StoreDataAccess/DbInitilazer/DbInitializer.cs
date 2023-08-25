@@ -2,13 +2,14 @@
 using Microsoft.EntityFrameworkCore;
 using StoreDataAccess.Data;
 using StoreModels;
+using StoreUtility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StoreUtility.DbInitalizer
+namespace StoreDataAccess.DbInitilazer
 {
     public class DbInitialize : IDbInitializer
     {

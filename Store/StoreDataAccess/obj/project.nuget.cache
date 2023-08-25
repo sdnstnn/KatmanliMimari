@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vTF6eKkvBd0KOuk2pIrynU85Irvp9A93HSyQMyoft0NoKLhN8JT4uABhnu1HC0QF+on0ASHLN90GK5J9Erx6EA==",
+  "dgSpecHash": "qvDB4z01ljCaH7hIS+znFqEiP3iXKVfDQekRBX4+z+8G/oDKvP9vzOcQrwD7epBkpNszUIc6buTylvZYgnDs6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\TURAN IŞITAN\\source\\repos\\Store\\StoreDataAccess\\StoreDataAccess.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\2.2.0\\microsoft.aspnetcore.dataprotection.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.abstractions\\2.2.0\\microsoft.aspnetcore.diagnostics.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.21\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.21.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -25,6 +26,7 @@
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.21\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.21.nupkg.sha512",
+    "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.21\\microsoft.aspnetcore.identity.ui.6.0.21.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.2.0\\microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.5\\microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
@@ -52,7 +54,8 @@
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
-    "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\6.0.21\\microsoft.extensions.fileproviders.embedded.6.0.21.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.21\\microsoft.extensions.identity.core.6.0.21.nupkg.sha512",
     "C:\\Users\\TURAN IŞITAN\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.21\\microsoft.extensions.identity.stores.6.0.21.nupkg.sha512",

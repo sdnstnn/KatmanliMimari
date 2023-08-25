@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StoreUtility.DbInitalizer
+namespace StoreDataAccess.DbInitilazer
 {
     public interface IDbInitializer
     {
