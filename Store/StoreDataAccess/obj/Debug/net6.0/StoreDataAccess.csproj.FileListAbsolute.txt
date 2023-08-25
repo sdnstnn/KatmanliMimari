@@ -1,0 +1,17 @@
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\bin\Debug\net6.0\StoreDataAccess.deps.json
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\bin\Debug\net6.0\StoreDataAccess.runtimeconfig.json
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\bin\Debug\net6.0\StoreDataAccess.dll
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\bin\Debug\net6.0\StoreDataAccess.pdb
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\bin\Debug\net6.0\StoreModels.dll
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.csproj.AssemblyReference.cache
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.AssemblyInfoInputs.cache
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.AssemblyInfo.cs
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.csproj.CopyComplete
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.dll
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\refint\StoreDataAccess.dll
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.pdb
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\StoreDataAccess.genruntimeconfig.cache
+C:\Users\TURAN IŞITAN\source\repos\Store\StoreDataAccess\obj\Debug\net6.0\ref\StoreDataAccess.dll
