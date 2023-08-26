@@ -17,7 +17,7 @@ namespace StoreDataAccess.Repositories
         public Repository(ApplicationDbContext context)
         {
             _context = context;
-            //_context.Products.Include(x=>x.Category)
+            //_context.Products.Include(x => x.Category);
             _dbSet = _context.Set<T>();
         }
         public void Add(T entity)

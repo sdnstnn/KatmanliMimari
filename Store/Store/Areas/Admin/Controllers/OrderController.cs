@@ -11,7 +11,7 @@ using StoreModels;
 namespace Store.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = WebSiteRole.Role_Admin)]
+    [Authorize]
     public class OrderController : Controller
     {
         private IUnitOfWork _unitOfWork;

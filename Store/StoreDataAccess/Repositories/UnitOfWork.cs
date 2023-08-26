@@ -27,7 +27,7 @@ namespace StoreDataAccess.Repositories
             Product = new ProductRepository(context);
             Cart = new CartRepository(context);
             ApplicationUser = new ApplicationRepository(context);
-            //OrderDetail = new OrderDetailRepository(context);
+            OrderDetail = new OrderDetailRepository(context);
             OrderHeader = new OrderHeaderRepository(context);
 
         }
